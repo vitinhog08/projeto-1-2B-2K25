@@ -2,4 +2,15 @@
 width: 360px;
 height: 67px;
 background-color: blue;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+
 }
+
+ .primeira_secao{
+    width: 360;
+    height: 222;
+    background-color: rgb(250, 215, 215);
+ }
