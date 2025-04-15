@@ -12,5 +12,17 @@ justify-content: space-between;
  .primeira_secao{
     width: 360;
     height: 222;
-    background-color: rgb(250, 215, 215);
+    background-color: rgb(0, 0, 0);
  }
+
+ .segunda_secao{
+   width: 360;
+   height: 223;
+   background-color: rgb(0, 253, 219);
+}
+.terceira_secao{
+    width: 360;
+    height: 190;
+    background-color: rgb(232, 0, 253);
+ }
+
