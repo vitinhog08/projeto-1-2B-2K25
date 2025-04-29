@@ -19,9 +19,9 @@ justify-content: space-between;
  }
 
  .retangulo{
-   width: 210px;
-   height: 146px;
-   background-color: rgb(255, 255, 255);
+   width: 146px;
+   height: 210px;
+   background-color: rgb(151, 238, 117);
 
  }
 
@@ -34,7 +34,7 @@ justify-content: space-between;
 .retangulo{
    width: 90px;
    height: 166px;
-   background-color: rgb(255, 255, 255);
+   background-color: rgb(133, 71, 248);
 
  }
 
@@ -46,6 +46,6 @@ justify-content: space-between;
  .retangulo{
    width: 210px;
    height: 145px;
-   background-color: rgb(255, 255, 255);
+   background-color: rgb(158, 131, 131);
 
  }
